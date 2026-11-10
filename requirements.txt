@@ -1,0 +1,6 @@
+| Package | Purpose |
+|---|---|
+| deepface | Face recognition framework |
+| opencv-contrib-python | Webcam access and face detection |
+| Pillow | Displaying camera images in Tkinter |
+| pandas | Processing DeepFace recognition results |
